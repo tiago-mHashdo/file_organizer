@@ -52,7 +52,7 @@ In this example, the script will organize files with extensions `.jpg`, `.png`, 
 
 The script logs its progress and any errors to the console. Information about the movement of files, errors encountered, and the total number of files found in the source folder will be displayed during execution.
 
-Important Notes
+## Important Notes
 
 - Always double-check the configuration file to avoid any accidental data loss. Make sure the source and destination folders are correct before running the script.
 
