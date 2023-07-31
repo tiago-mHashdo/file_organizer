@@ -1,5 +1,5 @@
 {
-    "downloads_folder": "/path/to/source_folder",
+    "source_folder": "/path/to/source_folder",
     "destination_folder": "/path/to/destination_folder",
     "extensions_mapping": {
       "Images": [".jpg", ".png", ".gif"],
